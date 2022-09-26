@@ -1,0 +1,62 @@
+
+
+
+.parent {
+
+}
+
+.child-one {
+
+}
+
+.child-two {
+
+}
+
+.child-three {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.parent {
+  padding: 5px;
+  background-color: #4242dc;
+}
+
+.child {
+  padding: 5px;
+}
+
+.child-one {
+  background-color: rgb(0, 255, 0);
+}
+
+.child-two {
+  background-color: rgb(255, 0, 0);
+}
+
+.child-three {
+  background-color: rgb(255, 230, 0);
+}
